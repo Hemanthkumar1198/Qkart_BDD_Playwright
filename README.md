@@ -1,6 +1,6 @@
 # QKart Cucumber_Playwright Automation Framework
 
-This project contains automated test cases for the **QKart** e-commerce application using **Selenium with Java**, **Cucumber (BDD)**, and **TestNG**.
+This project contains automated test cases for the **QKart** e-commerce application using **Playwright with Java**, **Cucumber (BDD)**, and **TestNG**.
 
 ---
 
