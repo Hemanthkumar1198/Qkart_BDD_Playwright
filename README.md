@@ -12,3 +12,4 @@ This project contains automated test cases for the **QKart** e-commerce applicat
 - **Test Runner**: TestNG
 - **Build Tool**: Maven
 - **Reporting**: Extent Reports
+- **Logging**: Log4j
