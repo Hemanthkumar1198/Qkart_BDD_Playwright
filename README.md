@@ -2,8 +2,6 @@
 
 This project contains automated test cases for the **QKart** e-commerce application using **Playwright with Java**, **Cucumber (BDD)**, and **TestNG**.
 
----
-
 ## 🚀 Tech Stack
 
 - **Language**: Java
